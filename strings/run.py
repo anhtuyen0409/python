@@ -33,3 +33,10 @@ if "anh" in str_3:
     print("OK")
 else:
     print("No")
+
+# methods
+str_4 = "Hello everyone"
+print(str_4.upper()) # in hoa toan bo
+print(str_4.lower()) # in thuong toan bo
+
+# string is immutable in python
