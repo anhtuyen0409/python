@@ -40,3 +40,6 @@ print(str_4.upper()) # in hoa toan bo
 print(str_4.lower()) # in thuong toan bo
 
 # string is immutable in python
+# khi da dinh nghia chuoi thi cac phan tu trong chuoi khong duoc thay doi
+str_5 = "Hello"
+str_5[1] = "E" # Loi
